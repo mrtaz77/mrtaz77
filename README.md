@@ -1,16 +1,27 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm icarus77</h1>
+<h3 align="center">A CTF player and Cyber Security Enthusiast</h3>
 
-<!--
-**mrtaz77/mrtaz77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mrtaz77&label=Profile%20views&color=6f63ad&style=for-the-badge" alt="mrtaz77" /> </p>
 
-Here are some ideas to get you started:
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtaz77" alt="mrtaz77" /></a> </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://kaggle.com/icarus77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="icarus77" height="30" width="40" /></a>
+</p>
+
+<div align="center">
+  
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtaz77&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaz77&theme=radical)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaz77&theme=radical) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaz77&theme=radical&utcOffset=6)
+
+
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrtaz77&show_icons=true&locale=en&layout=compact" alt="mrtaz77" /></p>
+
+<p><img src="https://github-readme-streak-stats.herokuapp.com/?user=mrtaz77&" alt="mrtaz77" /></p>
+
+
+</div>
