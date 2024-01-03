@@ -9,7 +9,7 @@
 <div align="center" style="border:1px solid white; border-radius: 5px;"> -->
 
 <!-- Profile Details -->
-<p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details" style="border: 1px solid white; border-radius: 5px;"></a></p>
+<div style="border:1px solid white"><p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details"></a></p></div>
 
 
 <!-- Repos per language -->
