@@ -6,10 +6,10 @@
 
 
 
-<div align="center">
+<div align="center" style="border:1px solid white; border-radius: 5px;">
 
 <!-- Profile Details -->
-<div style="border:1px solid white; border-radius: 5px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details"></div>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details">
 
 
 <!-- Repos per language -->
