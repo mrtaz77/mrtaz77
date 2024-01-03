@@ -2,14 +2,14 @@
 <h3 align="center">A CTF player and Cyber Security Enthusiast</h3>
 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtaz77" alt="mrtaz77" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtaz77&theme=radical" alt="mrtaz77" /></a> </p>
 
 
 
 <div align="center">
 
 <!-- Profile Details -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details" style="border: 1px solid white; border-radius: 5px;">
+<div style="border:1px solid white; border-radius: 5px;"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details"></div>
 
 
 <!-- Repos per language -->
