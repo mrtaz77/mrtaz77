@@ -7,12 +7,23 @@
 
 
 <div align="center">
-  
-![profile details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical)
 
-![Repos per language](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtaz77&theme=radical) ![Most Committed Languages](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaz77&theme=radical)
+<!-- Profile Details -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details" style="border: 1px solid white; border-radius: 5px;">
 
-![Stats](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaz77&theme=radical) ![Productive time](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaz77&theme=radical&utcOffset=6)
+
+<!-- Repos per language -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrtaz77&theme=radical" alt="Repos per language" style="border: 1px solid white; border-radius: 5px;">
+
+<!-- Most Committed Languages -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrtaz77&theme=radical" alt="Most Committed Languages" style="border: 1px solid white; border-radius: 5px;">
+
+<!-- Stats -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mrtaz77&theme=radical" alt="Stats" style="border: 1px solid white; border-radius: 5px;">
+
+<!-- Productive time -->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mrtaz77&theme=radical&utcOffset=6" alt="Productive time" style="border: 1px solid white; border-radius: 5px;">
+
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrtaz77&theme=radical)](https://git.io/streak-stats)
