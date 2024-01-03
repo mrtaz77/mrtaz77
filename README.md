@@ -5,11 +5,11 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mrtaz77&theme=radical" alt="mrtaz77" style="border: 1px solid white; border-radius: 5px;"/></a> </p>
 
 
-
-<div align="center" style="border:1px solid white; border-radius: 5px;">
+<!-- 
+<div align="center" style="border:1px solid white; border-radius: 5px;"> -->
 
 <!-- Profile Details -->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details">
+<p align="left"><a href="https://github.com/vn7n24fzkq/github-profile-summary-cards"><img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mrtaz77&theme=radical" alt="Profile Details" style="border: 1px solid white; border-radius: 5px;"></a></p>
 
 
 <!-- Repos per language -->
@@ -29,7 +29,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=mrtaz77&theme=radical)](https://git.io/streak-stats)
 
 
-</div>
+<!-- </div> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
