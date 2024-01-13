@@ -8,8 +8,8 @@
 
 <p align="center">
   <!-- GitHub Profile Trophy -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=mrtaz77&theme=nord&row=3&column=3" alt="mrtaz77"/>
+  <a href="https://github.com/lucthienphong1120/github-trophies">
+    <img src="https://github-trophies.vercel.app/?username=mrtaz77&theme=nord&row=3&column=4" alt="mrtaz77"/>
   </a>
 </p>
 
