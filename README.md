@@ -13,6 +13,10 @@
   </a>
 </p>
 
+## #30NitesOfCode:
+  [Check out my progress!](https://www.codedex.io/@icarus77/30-nites-of-code)  
+  ![@icarus77 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=icarus77)
+
 ## Profile Details
 <p align="center">
   <!-- Profile Details -->
