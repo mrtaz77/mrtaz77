@@ -17,6 +17,11 @@
   [Check out my progress!](https://www.codedex.io/@icarus77/30-nites-of-code)  
   ![@icarus77 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=icarus77)
 
+## Badges
+<div align="center">
+   <img src="https://tryhackme-badges.s3.amazonaws.com/icarus77.png" alt="TryHackMe">
+</div>
+
 ## Profile Details
 <p align="center">
   <!-- Profile Details -->
@@ -44,3 +49,5 @@
 <p align="left">
 <a href="https://kaggle.com/icarus77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="icarus77" height="30" width="40" /></a> <a href="https://ctftime.org/user/152889" target="blank"><img align="center" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBOzNfe5fwQhkTqjQVSSNP3AgqaSW29PQEUMDEGl4XpzsJcgHEdioPlAAgCayR_Op2Dw&usqp=CAU" alt="icarus77" height="30" width="108" /></a>
 </p>
+
+<script src="https://tryhackme.com/badge/1497010"></script>
