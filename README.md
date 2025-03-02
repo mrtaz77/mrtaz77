@@ -18,7 +18,7 @@
   ![@icarus77 #30NitesOfCode](https://www.codedex.io/api/petStatus?user=icarus77)
 
 ## Badges
-<img src="https://tryhackme.com/api/badges/user/1497010" alt="TryHackMe Badges" />
+<img src="https://tryhackme-badges.s3.amazonaws.com/icarus77.png" alt="Tryhackme Badge" />
 
 ## Profile Details
 <p align="center">
